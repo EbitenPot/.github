@@ -12,3 +12,6 @@
 
 | Sponsor | we need your sponsorship|
 | :------------:  | :------------:  |
+
+
+![Discord Banner 2](https://discordapp.com/api/guilds/926730113125605396/widget.png?style=banner2)
