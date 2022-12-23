@@ -1,9 +1,9 @@
 ![wordcloud](https://github.com/EbitenPot/.github/blob/main/images/cloud.jpg)
-# EbitenPot - an EbitenCook Group
+# EbiPot - an EbiCook Group
 
 ## Main Porjects
-- EbitenPot IDE
-- Ebiten.org document translation
+- EbiPot IDE
+- Ebitengine.org document translation
   - [ ] Chinese
 - other
 
